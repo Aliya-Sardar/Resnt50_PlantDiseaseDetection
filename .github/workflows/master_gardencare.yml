@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'GardenCare'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1699D9FC790F43AEB5B72B19767C629F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C630F09E0F214662A649E6F11CE6382D }}
